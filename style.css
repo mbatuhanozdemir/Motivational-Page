@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+img{
+    height: 50%;
+    width: 50%;
+    border: 5px solid white;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+h1{
+    font-family: 'Playpen Sans', cursive;
+    color: white;
+    text-transform: uppercase;
+    margin-left: 43%;
+    font-size: 3rem;
+}
+p{
+    font-family: 'Playpen Sans', cursive;
+    color: white;
+    margin-left: 38%;
+}
